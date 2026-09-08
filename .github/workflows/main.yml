@@ -1,22 +1,4 @@
-Skip to content
-gurkeeratsingh121234-art
-Haha
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security and quality
-Insights
-Settings
-RDP
-RDP #1
-All jobs
-Run details
-Workflow file for this run
-.github/workflows/main.yml at 991f0d2
+
 name: RDP
 
 on:
